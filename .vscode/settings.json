@@ -1,5 +1,11 @@
 {
     "editor.formatOnType": true,
-    "editor.quickSuggestions": null,
-    "emmet.showSuggestionsAsSnippets": true
+    "editor.quickSuggestions": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.size": "fit",
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+    
+    }
 }
