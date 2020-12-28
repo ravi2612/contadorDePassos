@@ -44,7 +44,7 @@ class _HomeState extends State<Home> {
             Text(
               'Pessoas : $_people',
               style: TextStyle(
-                color: Theme.of(context).primaryColorLight,
+                color: Colors.white,
                 fontWeight: FontWeight.bold,
               ),
             ),
