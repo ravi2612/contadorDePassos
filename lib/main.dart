@@ -34,7 +34,7 @@ class _HomeState extends State<Home> {
     return Stack(
       children: [
         Image.asset(
-          'assets/images/restaurant.jpg',
+          'assets/images/backgroundPessoas.jpg',
           fit: BoxFit.cover,
           height: 1000,
         ),
